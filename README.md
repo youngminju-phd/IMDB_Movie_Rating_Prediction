@@ -63,3 +63,6 @@ We train models on the final data set to predict a movie's average rating
 
 ## Conclusions:
 - Best XGBoost model achieved **66%** accuracy on the test set and **70%** accuracy (_r2-score_) on the train set. 
+
+### Reference
+https://github.com/kedarbartake98
